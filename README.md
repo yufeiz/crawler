@@ -6,7 +6,7 @@ This is a simple crawler for catching house information from Craiglist website
 
 ### Intellij Setup Notes:
     
-- Set the src a as source foldersg
+- Set the src as source folder
 
 ### Running
 
